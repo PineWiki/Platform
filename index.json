@@ -1,0 +1,49 @@
+{
+	"title"					:	"Pinewiki",
+	"meta"					:	{
+		"description"		:	["Pine Script Community"],
+		"keywords"			:	["Pine, Pinescript, Pinecode, Scripts, Snippets, Code, Trading, Bots, bot, Wiki, Tutorial, howto, Community, Help, Support, solutions, learn, create"],
+		"author"			:	["Michiel Celis"]
+	},
+	"styling"				:	{
+		"reset"				:	{
+		},
+		"colors"			:	{
+		},
+		"scaling"			:	{
+		},
+		"layout"			:	{
+		},
+		"typography"		:	{
+		},
+		"effects"			:	{
+		},
+		"styles"			:	{
+		}
+	},
+	"elements"				:	{
+	},
+	"modules"				:	{
+		"command"			:	{
+		},
+		"cookie"			:	{
+		},
+		"optimize"			:	{
+		},
+		"keyboard"			:	{
+		},
+		"mouse"				:	{
+		},
+		"windowx"			:	{
+		}
+	},
+	"layers"             	:	{
+		"prototype"			:	0,
+		"barheader"			:	2
+	},
+	"scripts"             	:	{
+	},
+	"extenions"             :	{
+		
+	}
+}
